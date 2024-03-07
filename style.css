@@ -1,0 +1,44 @@
+/* Estilos generales */
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+p {
+  margin: 10px 0;
+}
+
+img {
+  width: 100%;
+}
+
+/* Estilos específicos de cada sección */
+
+.hero {
+  height: 50vh;
+  background-color: #f0f0f0;
+}
+
+.contenido {
+  padding: 20px;
+}
+
+.galeria {
+  background-color: #ddd;
+}
+
+.galeria ul {
+  list-style: none;
+  padding: 0;
+}
+
+.galeria ul li {
+  display: inline-block;
+  margin: 10px;
+}
